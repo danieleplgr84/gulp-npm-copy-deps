@@ -1,6 +1,6 @@
 {
   "name": "gulp-npm-copy-deps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "copy all the dependencies recursively ",
   "main": "src/index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/danieleplgr84/objects-utils"
+    "url": "https://github.com/danieleplgr84/gulp-npm-copy-deps"
   },
   "author": "Daniele Pellegrini <danieleforit@gmail.com>",
   "license": "ISC",
